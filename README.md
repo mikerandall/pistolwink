@@ -4,22 +4,22 @@
 
 ### Narrative
 
-    A narrative or story is any report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images,[1][2] or both.
+A narrative or story is any report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images,[1][2] or both.
 
-    Categories
+Categories
 
-        A list of categories or hash-tags that describe the narrative.
-        ie. x-files, ufo, abduction, genetics
+    A list of categories or hash-tags that describe the narrative.
+    ie. x-files, ufo, abduction, genetics
 
-    Plot
+Plot
 
-        A brief explanation of the Narrative or story.
-        ie. The alien abduction phenomena in X-Files is told as a genetic engineering scheme to create a human/alien hybrid.
+    A brief explanation of the Narrative or story.
+    ie. The alien abduction phenomena in X-Files is told as a genetic engineering scheme to create a human/alien hybrid.
 
-    Characters
+Characters
 
-        A list of characters in the narrative.
-        ie. Mulder, Scully, Bill Cooper
+    A list of characters in the narrative.
+    ie. Mulder, Scully, Bill Cooper
 
 ### Character
 
@@ -27,7 +27,7 @@
 
 ### Timeline
 
-    A collection of Scenes, in order, that make a visual story from the Narrative.
+A collection of Scenes, in order, that make a visual story from the Narrative.
 
     Scenes
 
@@ -35,7 +35,7 @@
 
 ### Scene
 
-    An active place in a timeline, where Characters act out their part of the Narrative. Each scene connects to the next through navigation. It could be text, a video, or an animation, that tells a part of the story.
+An active place in a timeline, where Characters act out their part of the Narrative. Each scene connects to the next through navigation. It could be text, a video, or an animation, that tells a part of the story.
 
 ## Build Setup
 
