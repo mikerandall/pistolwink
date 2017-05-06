@@ -1,5 +1,0 @@
-{
-    'user': 'winkdb',
-    'pwd': 'wink db password',
-    'roles': [{ 'role': 'readWrite', db: 'pistolwink'}]
-}
