@@ -1,19 +1,8 @@
-import Vue from 'vue';
-import VueResource from 'vue-resource';
 import Router from 'vue-router';
-import BootstrapVue from 'bootstrap-vue';
 import Start from '@/components/Start';
-import Narratives from '@/components/Narratives';
-import Characters from '@/components/Characters';
-import Timelines from '@/components/Timelines';
-import mainNavigation from '@/components/main-navigation';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap-vue/dist/bootstrap-vue.css';
-
-Vue.use(Router)
-    .use(BootstrapVue)
-    .use(VueResource)
-    .component('main-navigation', mainNavigation);
+import Narratives from '@/components/narrative/narrative';
+import Characters from '@/components/character/character';
+import Timelines from '@/components/timeline/timeline';
 
 export default new Router({
     mode: 'history',
